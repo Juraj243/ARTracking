@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/pref_markers"
+        android:key="pref_key_storage_settings">
+        <EditTextPreference
+            android:defaultValue="100"
+            android:key="pref_quality"
+            android:title="@string/pref_quality" />
+        <EditTextPreference
+            android:defaultValue="320"
+            android:key="pref_size"
+            android:title="@string/pref_size" />
+    </PreferenceCategory>
+</PreferenceScreen>

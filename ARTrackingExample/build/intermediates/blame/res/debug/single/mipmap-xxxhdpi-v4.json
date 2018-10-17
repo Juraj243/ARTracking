@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\_Projects\\AndroidProjects\\Kristian\\ar\\ARTracking\\ARTrackingExample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\_Projects\\AndroidProjects\\Kristian\\ar\\ARTracking\\ARTrackingExample\\build\\intermediates\\exploded-aar\\ARTracking\\AR6J\\unspecified\\res\\mipmap-xxxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\_Projects\\AndroidProjects\\Diplomovka\\ARTracking\\ARTrackingExample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\_Projects\\AndroidProjects\\Diplomovka\\ARTracking\\ARTrackingExample\\build\\intermediates\\exploded-aar\\ARTracking\\AR6J\\unspecified\\res\\mipmap-xxxhdpi-v4\\ic_launcher.png"
+    }
+]
